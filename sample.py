@@ -27,7 +27,7 @@ app.layout = html.Div(children=[
         ''',
         style={
             'textAlign': 'center',
-            'color': colors['text']
+            # 'color': colors['text']
         }
     ),
 
